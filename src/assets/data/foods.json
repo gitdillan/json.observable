@@ -1,0 +1,17 @@
+{
+    "Arabian":[{"id":1,"name":"Shavrama","price":"100","image":"sample.jpg"},
+                {"id":2,"name":"Al-falm","price":"220","image":"sample.jpg"},
+                {"id":3,"name":"Rotti", "price":"20", "image":"sample.jpg"}
+             ],
+
+    "Starters":[{"id":1,"name":"Finger Chips","price":"100","image":"sample.jpg"},
+                {"id":2,"name":"Uzhunnu Vad","price":"10","image":"sample.jpg"},
+                {"id":3,"name":"Parotta", "price":"20", "image":"sample.jpg"}
+             ],
+
+             
+    "Drinks":[{"id":1,"name":"Lime Juice","price":"25","image":"sample.jpg"},
+                {"id":2,"name":"Orange Juice","price":"50","image":"sample.jpg"},
+                {"id":3,"name":"Banana Shake", "price":"40", "image":"sample.jpg"}
+             ]
+}

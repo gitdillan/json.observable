@@ -1,0 +1,12 @@
+<div class="login-form">
+<form class="form-signin" [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    
+    <h1 class="h3 mb-3 font-weight-normal">Waiter Login</h1>
+    <label class="sr-only">Email address</label>
+    <input type="text"  formControlName="username" class="form-control" placeholder="Username" >
+    <label  class="sr-only">Password</label>
+    <input type="password"  formControlName="password" class="form-control" placeholder="Password">
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    <p class="mt-5 mb-3 text-muted">&copy; 2017-2018</p>
+  </form>
+</div>
